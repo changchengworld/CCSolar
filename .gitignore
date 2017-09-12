@@ -1,0 +1,36 @@
+lt application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+*.iml
+*/*.iml
+gradle
+.gradle
+.idea
+.DS_Store
+.externalNativeBuild
+build
+*/build
+/local.properties
+
+jni_base/libs
+jni_base/obj
+app/wenbaedu.keystore
+comm_lib/src/main/jniLibs
+
+captures
+*.pl
+/app/origin
+/app/src/androidTest
+/app/src/test
+gradle.properties
+gradle/
+gradlew
+gradlew.bat
+settings.gradle
